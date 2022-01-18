@@ -19,7 +19,7 @@ int main()
          cout<<b<<" divisible by 2 and 3."<<endl;
     }
     else{
-        cout<<a<<" and "<<b<<" is not divisible by 2 nor 3."<<endl;
+        cout<<a<<" and "<<b<<" is not divisible by neither 2 nor 3."<<endl;
     }
     return 0;
 
